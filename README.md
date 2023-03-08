@@ -9,4 +9,7 @@ Se usa en lugar de escribir console.log()
 ```javascript
 log("hola desde log");
 ```
+
 Output: hola desde log
+
+[ver ejemplo](https://zsh4k.github.io/ejemplos/log.js/ "log.js")
